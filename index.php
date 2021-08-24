@@ -17,7 +17,7 @@
       <script>
 
           $(()=>{
-              //alert("Hello");
+              alert("Hello");
               
              
               });
